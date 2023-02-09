@@ -1,0 +1,14 @@
+{
+    "name": "@eudpna/math",
+    "version": "0.1.0",
+    "main": "dist/index.js",
+    "license": "MIT",
+     "scripts": {
+        "build": "tsc",
+        "prepublishOnly": "npm run build"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    },
+    "dependencies": {}
+}
