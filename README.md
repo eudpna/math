@@ -7,7 +7,7 @@
 ## インストール
 
 ```sh
-$ yarn add @eudpna/math
+$ yarn add https://github.com/eudpna/math
 ```
 
 ## 使い方(例)
